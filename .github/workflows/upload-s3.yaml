@@ -29,6 +29,6 @@ jobs:
     #     AWS_REGION: 'eu-central-1'   # optional: defaults to us-east-1
     #     SOURCE_DIR: 'trade-frontend-assets'      # optional: defaults to entire repositorys
     - name: Upload assets to s3
-      run: aws s3 trade-frontend-assets/ s3://trade-frontend-assets    
+      run: aws s3 sync trade-frontend-assets/ s3://trade-frontend-assets    
     - name: List s3
       run: aws s3 ls s3://trade-frontend-assets
