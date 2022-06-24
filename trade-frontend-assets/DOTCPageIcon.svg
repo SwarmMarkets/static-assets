@@ -1,0 +1,11 @@
+<svg color="white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>.cls-1{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:5.09px;}</style>
+  </defs>
+  <rect class="cls-1" x="15.96" y="55.11" width="28.94" height="28.94" />
+  <rect class="cls-1" x="55.11" y="15.96" width="28.94" height="28.94" />
+  <path class="cls-1" d="M46,19.82A17.71,17.71,0,0,0,28.33,37.53v5" />
+  <polyline class="cls-1" points="34.03 38.76 28.33 44.46 22.63 38.76" />
+  <path class="cls-1" d="M57.9,79.72A17.71,17.71,0,0,0,75.61,62V57" />
+  <polyline class="cls-1" points="69.91 60.78 75.61 55.08 81.31 60.78" />
+</svg>
