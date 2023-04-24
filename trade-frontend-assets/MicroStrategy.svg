@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <clipPath id="clip-MicroStrategy">
+      <rect width="800" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="MicroStrategy" clip-path="url(#clip-MicroStrategy)">
+    <rect width="800" height="800" fill="#fff"/>
+    <circle id="Elipse_1" data-name="Elipse 1" cx="400" cy="400" r="400" fill="#de2734"/>
+    <g id="Grupo_5" data-name="Grupo 5" transform="translate(180.25 226.966)">
+      <rect id="Rectángulo_3" data-name="Rectángulo 3" width="110.759" height="346.568" transform="translate(0 0.001)" fill="#fff"/>
+      <rect id="Rectángulo_4" data-name="Rectángulo 4" width="110.766" height="346.568" transform="translate(165.245 0.001)" fill="#fff"/>
+      <path id="Trazado_5" data-name="Trazado 5" d="M46.25,0V346.568H157.009V110.759Z" transform="translate(284.241 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
