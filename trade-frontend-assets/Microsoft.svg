@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <clipPath id="clip-Microsoft">
+      <rect width="800" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Microsoft" clip-path="url(#clip-Microsoft)">
+    <rect width="800" height="800" fill="#fff"/>
+    <circle id="Elipse_1" data-name="Elipse 1" cx="400" cy="400" r="400" fill="#e3e3e3"/>
+    <g id="Grupo_16" data-name="Grupo 16" transform="translate(6 5)">
+      <rect id="Rectángulo_8" data-name="Rectángulo 8" width="183.8" height="183.8" transform="translate(199.136 200.1)" fill="#f35325"/>
+      <rect id="Rectángulo_9" data-name="Rectángulo 9" width="183.8" height="183.8" transform="translate(405.064 200.1)" fill="#81bc06"/>
+      <rect id="Rectángulo_10" data-name="Rectángulo 10" width="183.8" height="183.8" transform="translate(199.136 406.1)" fill="#05a6f0"/>
+      <rect id="Rectángulo_11" data-name="Rectángulo 11" width="183.8" height="183.8" transform="translate(405.064 406.1)" fill="#ffba08"/>
+    </g>
+  </g>
+</svg>

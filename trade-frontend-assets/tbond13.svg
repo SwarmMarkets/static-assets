@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: #0c2c5c;
+      }
+
+      .cls-4 {
+        font-family: InterV-Light, 'Inter V';
+        font-size: 20.47px;
+        font-variation-settings: 'wght' 300, 'slnt' 0;
+        font-weight: 300;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 0 6.18;
+      }
+
+      .cls-5 {
+        font-family: LiGothicMed, 'Apple LiGothic';
+        font-size: 68.87px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-3" cx="49.77" cy="50.32" r="49.15"/>
+  <text class="cls-5" transform="translate(26.1 72)"><tspan x="0" y="0">$</tspan></text>
+  <text class="cls-4" transform="translate(78.45 59.15)"><tspan x="0" y="0">%</tspan></text>
+  <g>
+    <line class="cls-1" x1="72.4" y1="7.01" x2="72.4" y2="7.01"/>
+    <line class="cls-2" x1="72.4" y1="13.2" x2="72.4" y2="90.45"/>
+    <line class="cls-1" x1="72.4" y1="93.55" x2="72.4" y2="93.55"/>
+  </g>
+</svg>
