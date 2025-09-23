@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_17" data-name="Elipse 17" cx="16" cy="16" r="16" transform="translate(2766 521)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_2" data-name="Enmascarar grupo 2" transform="translate(-2766 -521)" clip-path="url(#clip-path)">
+    <g id="Grupo_103" data-name="Grupo 103" transform="translate(2765.221 521)">
+      <rect id="Rectángulo_105" data-name="Rectángulo 105" width="33.533" height="16" fill="#2185c7"/>
+      <rect id="Rectángulo_106" data-name="Rectángulo 106" width="33.533" height="16" transform="translate(0 16)" fill="#044f80"/>
+      <path id="Trazado_270" data-name="Trazado 270" d="M125.86,137.556V137h-6.442v.556h1.834v16.315h-1.834v.556h6.442v-.556h-1.834V137.556Z" transform="translate(-112.215 -129.883)" fill="#fff"/>
+      <path id="Trazado_271" data-name="Trazado 271" d="M408.526,137.556V137h-6.442v.556h1.834v16.315h-1.834v.556h6.442v-.556h-1.834V137.556Z" transform="translate(-382.197 -129.883)" fill="#fff"/>
+      <rect id="Rectángulo_107" data-name="Rectángulo 107" width="33.533" height="0.658" transform="translate(0 15.671)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_98" data-name="Rectángulo 98" width="24.141" height="9.677" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_86" data-name="Grupo 86" transform="translate(-790 -410)">
+    <circle id="Elipse_16" data-name="Elipse 16" cx="16" cy="16" r="16" transform="translate(790 410)"/>
+    <g id="Grupo_85" data-name="Grupo 85" transform="translate(793.929 421.161)">
+      <g id="Grupo_84" data-name="Grupo 84" clip-path="url(#clip-path)">
+        <path id="Trazado_241" data-name="Trazado 241" d="M533.954,0a2.6,2.6,0,0,1,1.5.613c.018.017.049.04.051.066h-6.712V0h5.161" transform="translate(-523.429 0)" fill="#fff"/>
+        <rect id="Rectángulo_80" data-name="Rectángulo 80" width="4.694" height="0.679" transform="translate(0 0)" fill="#fff"/>
+        <rect id="Rectángulo_81" data-name="Rectángulo 81" width="4.694" height="0.669" transform="translate(0 1.287)" fill="#fff"/>
+        <rect id="Rectángulo_82" data-name="Rectángulo 82" width="4.694" height="0.669" transform="translate(0 9.008)" fill="#fff"/>
+        <rect id="Rectángulo_83" data-name="Rectángulo 83" width="4.694" height="0.669" transform="translate(0 7.721)" fill="#fff"/>
+        <path id="Trazado_242" data-name="Trazado 242" d="M1326.326,0l.223.679h-4.066V0Z" transform="translate(-1309.069 -0.004)" fill="#fff"/>
+        <path id="Trazado_243" data-name="Trazado 243" d="M1983.292,0V.683h-4.066L1979.45,0Z" transform="translate(-1959.151 -0.004)" fill="#fff"/>
+        <path id="Trazado_244" data-name="Trazado 244" d="M1458.274,380.6l.177.527.2-.527h3.828v.669h-2.018V380.7l-.209.578h-3.6l-.209-.588v.588h-2.018V380.6Z" transform="translate(-1439.679 -376.744)" fill="#fff"/>
+        <path id="Trazado_245" data-name="Trazado 245" d="M536.276,761.205a1.953,1.953,0,0,1-.269.669h-7.214v-.669Z" transform="translate(-523.429 -753.484)" fill="#fff"/>
+        <path id="Trazado_246" data-name="Trazado 246" d="M536.276,127.54h-7.483v-.669h7.214a2.261,2.261,0,0,1,.269.669" transform="translate(-523.429 -125.584)" fill="#fff"/>
+        <path id="Trazado_247" data-name="Trazado 247" d="M535.515,888.072a2.55,2.55,0,0,1-1.576.669h-5.146v-.669Z" transform="translate(-523.429 -879.064)" fill="#fff"/>
+        <path id="Trazado_248" data-name="Trazado 248" d="M666.623,380.6a2.568,2.568,0,0,1-.553.669h-5.328V380.6Z" transform="translate(-654.04 -376.743)" fill="#fff"/>
+        <path id="Trazado_249" data-name="Trazado 249" d="M666.612,508.14h-5.871v-.669h5.318a2.618,2.618,0,0,1,.453.5.815.815,0,0,1,.1.169" transform="translate(-654.039 -502.324)" fill="#fff"/>
+        <path id="Trazado_250" data-name="Trazado 250" d="M1326.772,126.871l.223.669h-4.512v-.669Z" transform="translate(-1309.069 -125.584)" fill="#fff"/>
+        <path id="Trazado_251" data-name="Trazado 251" d="M1939.756,126.871v.669h-4.512l.223-.669Z" transform="translate(-1915.614 -125.584)" fill="#fff"/>
+        <path id="Trazado_252" data-name="Trazado 252" d="M1457.828,253.738l.223.669h-3.62v-.669Z" transform="translate(-1439.679 -251.164)" fill="#fff"/>
+        <path id="Trazado_253" data-name="Trazado 253" d="M1894.881,253.738v.669h-3.62l.223-.669Z" transform="translate(-1872.078 -251.164)" fill="#fff"/>
+        <rect id="Rectángulo_84" data-name="Rectángulo 84" width="3.356" height="0.669" transform="translate(20.785 9.008)" fill="#fff"/>
+        <rect id="Rectángulo_85" data-name="Rectángulo 85" width="3.356" height="0.669" transform="translate(13.414 9.008)" fill="#fff"/>
+        <rect id="Rectángulo_86" data-name="Rectángulo 86" width="3.356" height="0.669" transform="translate(20.785 7.721)" fill="#fff"/>
+        <rect id="Rectángulo_87" data-name="Rectángulo 87" width="3.356" height="0.669" transform="translate(13.414 7.721)" fill="#fff"/>
+        <path id="Trazado_254" data-name="Trazado 254" d="M1699.48,507.471l-.23.667-2.676,0-.238-.669Z" transform="translate(-1679.13 -502.324)" fill="#fff"/>
+        <path id="Trazado_255" data-name="Trazado 255" d="M1059.787,253.738a2.647,2.647,0,0,1-.091.669h-2.109v-.669Z" transform="translate(-1046.86 -251.164)" fill="#fff"/>
+        <path id="Trazado_256" data-name="Trazado 256" d="M1059.695,634.338a2.672,2.672,0,0,1,.091.669h-2.2v-.669Z" transform="translate(-1046.859 -627.904)" fill="#fff"/>
+        <path id="Trazado_257" data-name="Trazado 257" d="M1742.571,634.338l-.238.669-1.789,0-.224-.668Z" transform="translate(-1722.668 -627.904)" fill="#fff"/>
+        <rect id="Rectángulo_88" data-name="Rectángulo 88" width="2.018" height="0.669" transform="translate(6.702 6.434)" fill="#fff"/>
+        <rect id="Rectángulo_89" data-name="Rectángulo 89" width="2.018" height="0.669" transform="translate(14.752 6.434)" fill="#fff"/>
+        <rect id="Rectángulo_90" data-name="Rectángulo 90" width="2.018" height="0.669" transform="translate(20.785 6.434)" fill="#fff"/>
+        <rect id="Rectángulo_91" data-name="Rectángulo 91" width="2.018" height="0.669" transform="translate(20.785 5.147)" fill="#fff"/>
+        <rect id="Rectángulo_92" data-name="Rectángulo 92" width="2.018" height="0.669" transform="translate(1.338 6.434)" fill="#fff"/>
+        <rect id="Rectángulo_93" data-name="Rectángulo 93" width="2.018" height="0.669" transform="translate(14.752 5.147)" fill="#fff"/>
+        <rect id="Rectángulo_94" data-name="Rectángulo 94" width="2.018" height="0.669" transform="translate(1.338 5.147)" fill="#fff"/>
+        <rect id="Rectángulo_95" data-name="Rectángulo 95" width="2.018" height="0.669" transform="translate(1.338 3.861)" fill="#fff"/>
+        <rect id="Rectángulo_96" data-name="Rectángulo 96" width="2.018" height="0.669" transform="translate(6.702 2.574)" fill="#fff"/>
+        <rect id="Rectángulo_97" data-name="Rectángulo 97" width="2.018" height="0.669" transform="translate(1.338 2.574)" fill="#fff"/>
+        <path id="Trazado_258" data-name="Trazado 258" d="M1785.661,761.2l-.233.664-.878.005-.248-.669Z" transform="translate(-1766.204 -753.484)" fill="#fff"/>
+        <path id="Trazado_259" data-name="Trazado 259" d="M1829.731,888.072l-.228.648-.218-.648Z" transform="translate(-1810.73 -879.064)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
